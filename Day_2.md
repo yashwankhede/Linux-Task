@@ -9,5 +9,5 @@
 
 ## Task 2: Creating a Set of Files
 
-### 1. Create an alias (delete_files) that performs the following tasks:
+### 1. Create an alias (combine_alias) that performs the following tasks:
    - Create an alias for the previous task.
