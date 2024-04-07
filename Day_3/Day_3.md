@@ -1,7 +1,7 @@
 **Task 1: Data Extraction and Formatting**
 
 1. Create a file named `content.txt`.
-2. Copy the content of a demo file into `content.txt`.
+2. Copy the content of a [Demo](demo.txt) file into `content.txt`.
 3. Extract all lines containing `cname` records from `content.txt` and format them as: `docs.hypr.com --> ssl.readmessl.com`.
 4. Save the formatted `cname` records into a new file named `cname.txt`.
 
