@@ -10,8 +10,6 @@
 1. Sort the `cname` records extracted from `cname.txt`.
 2. Save the sorted records into a new file named `sorted_cname.txt`.
 
-==================================================================================
-
 **Task 3: Practice Task for Pipe Operator**
 
 1. Create a file named `data.txt` containing sample data.
