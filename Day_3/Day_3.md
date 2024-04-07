@@ -9,3 +9,16 @@
 
 1. Sort the `cname` records extracted from `cname.txt`.
 2. Save the sorted records into a new file named `sorted_cname.txt`.
+
+==================================================================================
+
+Now play with the pipe operator
+
+**Practice Task for Pipe Operator**
+
+1. Create a file named `data.txt` containing sample data.
+2. Use the `cat` command to display the contents of `data.txt`.
+3. Pipe the output of `cat data.txt` into `grep` to filter lines containing a specific keyword (e.g., "important").
+4. Pipe the filtered output into `sort` to arrange the lines alphabetically.
+5. Redirect the sorted output into a new file named `sorted_data.txt`.
+6. Display the contents of `sorted_data.txt` using the `cat` command to verify the sorting.
