@@ -12,9 +12,7 @@
 
 ==================================================================================
 
-Now play with the pipe operator
-
-**Practice Task for Pipe Operator**
+**Task 3: Practice Task for Pipe Operator**
 
 1. Create a file named `data.txt` containing sample data.
 2. Use the `cat` command to display the contents of `data.txt`.
