@@ -2,7 +2,7 @@
 
 ## Task 1: Deleting a Set of Files
 
-### Create `file{1..10}.bak` `parrot{1..10}` `file_one.txt, file_two.txt file_three.txt` in Yash/backup_files
+### Create `file{1..10}.bak` `parrot{1..10}.txt` `file_one.txt, file_two.txt file_three.txt` in Yash/backup_files
 
 ### 1. Delete perticular files (Perform everything in /home/Desktop):
    - Delete all files with the extension `.bak` in the `Yash/backup_files/` directory.
