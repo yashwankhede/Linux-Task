@@ -7,4 +7,4 @@ Task list to make your Linux core concepts strong
 
 [Day 3 task](Day_3/Day_3.md) : Do this stuff to make strong grip on commands like grep, awk, sort.
 
-[Day 4 task](Day_4/Day_4.md) : This task will enhance your user and group management skills.
+[Day 4 task](Day_4/Day_4.md) : This task will enhance your user and group management skills
